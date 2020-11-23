@@ -1,5 +1,10 @@
 # Forecasting-of-Gasoline-MED-FOB-Price-Based-on-Historical-Data
 
+<p align="center">
+  <img src="https://github.com/tanerceyhanli/Forecasting-of-Gasoline-MED-FOB-Price-Based-on-Historical-Data/blob/main/readme_resources/image.png">
+</p>
+
+
 ## Introduction
 
 Petroleum refineries are large, capital-intensive, continuous-flow manufacturing facilities. They transform crude oils into finished, refined products by separating crude oils into different fractions and then processing these fractions into finished products, through a sequence of physical and chemical conversions. Production planning and process scheduling is one of the most important parts of refineries for maximizing the profit of production. Although there are many inputs to optimize this problem, price of blend crude oil (raw material), product price to raw material price ratio, and crack margin ( product price minus raw material price) are critically important since very small change in these variable can lead to very different scenarios.
