@@ -14,3 +14,5 @@ The availability of LP-based commercial software for refinery production plannin
 In this project, **the aim is to develop a methodology to gasoline crack margin by using time series analysis and forecasting techniques. We used real data which can be extracted from Platts.** We implemented following forecasting methods: _Moving Average, Exponential Smoothing, Exponentially Weighted Moving Average, Holt-Winter’s. However, the most important part of the project is applying Box-Jenkins methodology_ to data and make an automated tool which carries out all Box-Jenkins process without any need for individual intervention.
 
 Solving this problem will help Tupras to increase their production and scheduling accuracy, hence their profit. Moreover, we will try to compare all forecasting techniques and their accuracy.
+
+Ufuk Taner CEYHANLI
