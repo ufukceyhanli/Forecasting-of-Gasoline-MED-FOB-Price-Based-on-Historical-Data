@@ -1,7 +1,7 @@
 # Forecasting of Gasoline MED-FOB Price Based on Historical Data
 
 <p align="center">
-  <img src="https://github.com/tanerceyhanli/Forecasting-of-Gasoline-MED-FOB-Price-Based-on-Historical-Data/blob/main/readme_resources/image.png">
+  <img src="https://github.com/tanerceyhanli/Forecasting-of-Gasoline-MED-FOB-Price-Based-on-Historical-Data/blob/main/image.png">
 </p>
 
 
